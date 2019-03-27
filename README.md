@@ -1,7 +1,7 @@
 The script perform some activities:
 
 1) download zip file getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip;
-2) Read all important files
+2) read all important files
 
 activity_labels
 features
